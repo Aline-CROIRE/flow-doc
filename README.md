@@ -1,3 +1,3 @@
-# DOC-FLOW Project
+# FLOW-DOC
 
-This is Project For Verfying if Documents Meet a certain  Requirements and if They are Valid
+The flow-doc project is a web-based application designed to verify if documents meet certain requirements and validate their authenticity.
